@@ -17,7 +17,7 @@ This Tableau dashboard visualizes the career outcomes of graduates from Adelphi 
 
 ## 🌐 View Dashboard
 
-🔗 [Graduate Career Outcomes Dashboard (Tableau Public)][(https://public.tableau.com/views/Final_Project_1_17486208732850/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
+🔗 [Graduate Career Outcomes Dashboard (Tableau Public)](https://public.tableau.com/views/Final_Project_1_17486208732850/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📂 Files
 
